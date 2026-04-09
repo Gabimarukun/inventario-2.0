@@ -45,4 +45,4 @@ Este proyecto sirve como práctica de conceptos fundamentales en Python:
    ```
 
 ---
-*Desarrollado por Felipe, Rafael  y Carlos*
+*Desarrollado por Luis, Rafael  y Carlos*
